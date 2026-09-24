@@ -1,4 +1,4 @@
-//go:build ja_JP
+//go:build ja_JP || !ja_JP
 
 package locale
 
